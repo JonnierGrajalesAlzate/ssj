@@ -1,0 +1,52 @@
+C:\Users\usuario\Desktop\GimnasioCapas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\usuario\Desktop\GimnasioCapas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\usuario\Desktop\GimnasioCapas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\usuario\Desktop\GimnasioCapas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\GimnasioCapas\Presentacion\obj\Debug\Presentacion.frmSplash.resources
+C:\Users\usuario\Desktop\GimnasioCapas\Presentacion\obj\Debug\Presentacion.frmCliente.resources
+C:\Users\usuario\Desktop\GimnasioCapas\Presentacion\obj\Debug\Presentacion.frmListado.resources
+C:\Users\usuario\Desktop\GimnasioCapas\Presentacion\obj\Debug\Presentacion.frmPrincipal.resources
+C:\Users\usuario\Desktop\GimnasioCapas\Presentacion\obj\Debug\Presentacion.frmServicio.resources
+C:\Users\usuario\Desktop\GimnasioCapas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\usuario\Desktop\GimnasioCapas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\usuario\Desktop\GimnasioCapas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\GimnasioCapas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\usuario\Desktop\GimnasioCapas\Presentacion\obj\Debug\Presentacion.pdb
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\bin\Debug\Presentacion.exe.config
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\bin\Debug\Presentacion.exe
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\bin\Debug\Presentacion.pdb
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\bin\Debug\Negocio.dll
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\bin\Debug\Datos.dll
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\bin\Debug\Negocio.pdb
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\bin\Debug\Datos.pdb
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\obj\Debug\Presentacion.frmSplash.resources
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\obj\Debug\Presentacion.frmCliente.resources
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\obj\Debug\Presentacion.frmListado.resources
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\obj\Debug\Presentacion.frmPrincipal.resources
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\obj\Debug\Presentacion.frmServicio.resources
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\obj\Debug\Presentacion.exe
+E:\SUBIR EJEMPLO DE GIMNASIO\GimnasioCapas\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\bin\Debug\Negocio.dll
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\bin\Debug\Datos.dll
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\obj\Debug\Presentacion.frmSplash.resources
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\obj\Debug\Presentacion.frmCliente.resources
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\obj\Debug\Presentacion.frmListado.resources
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\obj\Debug\Presentacion.frmPrincipal.resources
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\obj\Debug\Presentacion.frmServicio.resources
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Usuario\Downloads\GimnasioCapas\Presentacion\obj\Debug\Presentacion.pdb
